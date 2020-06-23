@@ -27,6 +27,7 @@ public class MainStep2 {
             System.out.println("3.Quit");
             System.out.println();
             System.out.println(">>>");
+            System.out.println(">>>");
             String input = scanner.nextLine();
 
             switch (input) {

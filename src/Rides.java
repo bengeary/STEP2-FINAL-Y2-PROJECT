@@ -30,7 +30,7 @@ public class Rides {
 
     public static class MedievalAttributes {
         public void main(String args[]) {
-            LinkedList<Rides> m = new LinkedList<Rides>();
+            LinkedList<Rides> m = new LinkedList<>();
 
             m.add(new Rides(true, true, false, true, false, true, false, true));
             m.add(new Rides(true, true, false, true, false, true, false, true));
@@ -41,7 +41,7 @@ public class Rides {
 
      public class FutrusticAttributes {
         public void main(String args[]) {
-            LinkedList<Rides> f = new LinkedList<Rides>();
+            LinkedList<Rides> f = new LinkedList<>();
 
             f.add(new Rides(true, true, false, true, false, true, false, true));
             f.add(new Rides(true, true, false, true, false, true, false, true));
@@ -53,7 +53,7 @@ public class Rides {
 
     static class JurassicAttributes {
         public static void main(String args[]) {
-            LinkedList<Rides> j = new LinkedList<Rides>();
+            LinkedList<Rides> j = new LinkedList<>();
 
             j.add(new Rides(true, true, false, true, false, true, false, true));
             j.add(new Rides(true, true, false, true, false, true, false, true));
@@ -65,7 +65,7 @@ public class Rides {
 
     static class IndustrialAttributes {
         public static void main(String args[]) {
-            LinkedList<Rides> i = new LinkedList<Rides>();
+            LinkedList<Rides> i = new LinkedList<>();
 
             i.add(new Rides(true, true, false, true, false, true, false, true));
             i.add(new Rides(true, true, false, true, false, true, false, true));
@@ -73,4 +73,6 @@ public class Rides {
             i.add(new Rides(true, true, false, true, false, true, false, true));
         }
     }
+
+
 }
