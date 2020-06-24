@@ -7,7 +7,7 @@ public class MainStep2 {
 
     public static void main(String[] args) throws IOException {
 
-        System.out.println("\nWelcome to Time Travellers.");
+        System.out.println("\nWelcome to Time Travellers");
         System.out.println("\n");
 
         boolean finished = false;
