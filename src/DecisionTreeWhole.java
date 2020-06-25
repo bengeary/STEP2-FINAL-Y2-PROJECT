@@ -5,7 +5,6 @@ import java.io.InputStreamReader;
 
 public class DecisionTreeWhole extends Rides {
 
-    String wc;
 
 
     BufferedReader input = new

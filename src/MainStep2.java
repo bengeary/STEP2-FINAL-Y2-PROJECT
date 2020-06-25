@@ -40,6 +40,7 @@ public class MainStep2 {
                 case"2":
                     decisionTreeMain1.Questions(scanner);
                     decisionTreeWhole.queryTree();
+                    reccommendations.ReccomendationsForUser();
 
                 case "3":
                     finished = true;
