@@ -1,3 +1,5 @@
+//Ben Geary     RKB18204
+
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;

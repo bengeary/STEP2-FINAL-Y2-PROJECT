@@ -1,4 +1,4 @@
-
+//Ben Geary     RKB18204
 import java.io.IOException;
         import java.util.Scanner;
 
@@ -26,7 +26,6 @@ public class MainStep2 {
             System.out.println("2. Get your recomendations for the entire park");
             System.out.println("3.Quit");
             System.out.println();
-            System.out.println(">>>");
             System.out.println(">>>");
             String input = scanner.nextLine();
 

@@ -1,3 +1,6 @@
+//Ben Geary     RKB18204
+
+
 import java.util.LinkedList;
 
 public class Rides {
